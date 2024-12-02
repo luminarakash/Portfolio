@@ -49,7 +49,7 @@ const forgotResetPassSlice = createSlice({
 export const forgotPassword = (email) => async (dispatch) => {
   try {
     dispatch(forgotResetPassSlice.actions.forgotPasswordRequest());
-    console.log(etmail);
+    console.log(email);
     const response = await axios.post(
       "https://portfolio-znnh.onrender.com/api/v1/user/password/forgot",
       { email },

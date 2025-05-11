@@ -32,7 +32,7 @@ const About = () => {
           </div>
           <div className="flex justify-center flex-col tracking-[1px] text-xl gap-5">
             <p>
-              I’m Passionate Full Stack Developer with hands-on experience in the MERN Stack, 
+              I’m Passionate Full Stack Developer with hands-on experience in the MERN stack, 
               gained through various internships. I have a strong commitment to building scalable 
               web applications and am dedicated to crafting innovative solutions that address real-world challenges. 
               My skills encompass both frontend and backend technologies, making me a versatile addition to any development team.

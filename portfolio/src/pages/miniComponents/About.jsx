@@ -32,9 +32,10 @@ const About = () => {
           </div>
           <div className="flex justify-center flex-col tracking-[1px] text-xl gap-5">
             <p>
-              My name is Akash Patel, I am born and brought up in Banaras.
-              I'm pursuing my B.Tech CSE from CSA University Kanpur.
-              I'm skilled in MERN Stack with Tailwind-CSS and my hobbies is playing Vollyball and reading Book.
+              I’m Passionate Full Stack Developer with hands-on experience in the MERN stack, 
+              gained through various internships. I have a strong commitment to building scalable 
+              web applications and am dedicated to crafting innovative solutions that address real-world challenges. 
+              My skills encompass both frontend and backend technologies, making me a versatile addition to any development team.
             </p>
             <p>
               I have interests not only in technology but 
